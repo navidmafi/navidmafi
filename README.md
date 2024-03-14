@@ -1,7 +1,7 @@
-### hey! 👋
+### About me
 
-I'm a full-stack software / devops engineer, interested in product design and music, and passionate about creating amazing experiences and improving people's lives!
+I'm a full-stack software / devops engineer, passionate about product design, art, and music!
 
-I'm studying computer science at [Semnan University, Iran](https://en.wikipedia.org/wiki/Semnan_University+) and trying to learn and experiment with new tools and technologies, meet amazing people, and positively affect the world I'm living in and the people I'm interacting with.
+Deeply interested in meeting amazing people to build cool stuff for everyone's benefit and to discuss, learn, and experiment with new tools and technologies. If you think we can build something great, do not hesitate to shoot me a message!
 
-also don't forget to check out [JoliStream](https://jolistream.com) 
+I am currently studying Computer Science at [Semnan University](https://en.wikipedia.org/wiki/Semnan_University)
